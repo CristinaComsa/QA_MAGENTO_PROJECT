@@ -47,7 +47,7 @@ Software Packages from Python, I used:
 
 Steps to use the project:
 
-Download or clone the project from GitHub with the command: git clone https://github.com/CristinaComsa/QA_MAGENTO_PROJECT.git
+Download or clone the project from GitHub with the command: git clone https://github.com/CristinaComsa/QA_MAGENTO_PROJECT
 
 Install the necessary libraries with the command: pip install -r requirements.txt
 

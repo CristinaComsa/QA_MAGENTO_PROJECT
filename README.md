@@ -39,20 +39,22 @@ Software Packages from Python, I used:
 
 -- selenium
 
+-- webdriver-manager.
+
 -- behave --> library that interprets and runs tests written in Gherkin
 
 -- behave-html-formatter --> helps generate reports
 
--- webdriver-manager.
+
 
 Steps to use the project:
 
-Download or clone the project from GitHub with the command: git clone https://github.com/CristinaComsa/QA_MAGENTO_PROJECT
+Clone the project from GitHub with the command: git clone https://github.com/CristinaComsa/QA_MAGENTO_PROJECT
 
 Install the necessary libraries with the command: pip install -r requirements.txt
 
 Run the tests with the command: behave
 
-To create the HTML report of the tests, use the command: behave -f html -o report.html
+To create the HTML report use the command: behave -f html -o report.html
 
 To access the reports, look for the generated HTML file in the project folder and open it in a browser.
